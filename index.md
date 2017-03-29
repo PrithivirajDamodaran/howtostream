@@ -10,6 +10,6 @@ This is a collaborative forum primarily for sharing use cases,code and benchmark
 
 This is still in a very nascent stage, feel free to chip and share your thoughts.
 
-You can use the [editor on GitHub](https://github.com/PrithivirajDamodaran/howtostream/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/PrithivirajDamodaran/howtostream/edit/master/index.md) to maintain and preview the content for your website in Markdown files. 
 
 As of today this is initiated and maitained by [Prithiviraj Damodaran](https://twitter.com/prithivida). So feel free to reach out to him should you have any questions.
